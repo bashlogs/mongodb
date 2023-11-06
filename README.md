@@ -1,10 +1,3 @@
----
-description: >-
-  In my MongoDB documentation, I am practicing various operations and commands
-  to interact with a MongoDB database named "school." Here's a breakdown of the
-  context for each section of my documentation
----
-
 # MongoDB Documentation
 ### In my MongoDB documentation, I am practicing various operations and commands to interact with a MongoDB database named "school." Here's a breakdown of the context for each section of my documentation
 
