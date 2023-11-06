@@ -4,7 +4,6 @@
 ## Connection:
 
 * Connection string: `mongosh "mongodb+srv://cluster0.k3uephw.mongodb.net/" --apiVersion 1 --username mayur`
-* Password: JE5lyxzuYC58XHWs
 
 ## Database:
 
